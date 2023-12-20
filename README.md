@@ -1,4 +1,5 @@
-# subject-231220
+# subject-231220 
+( [Replit で実行](https://replit.com/@sworc/ALL-PDO-masutamente)
 
 - ### 🔴 標準化前の社員マスタの修正処理
   - https://github.com/winofsql/php-mtn-v01-update-sqlite  
