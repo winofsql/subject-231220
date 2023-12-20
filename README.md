@@ -1,5 +1,7 @@
 # subject-231220 
-( [Replit で実行](https://replit.com/@sworc/ALL-PDO-masutamente)　)
+( [Replit で実行 : MTN](https://replit.com/@sworc/ALL-PDO-masutamente) )
+( [Replit で実行 : REQ](https://replit.com/@sworc/ALL-PDO-Wen-iHe-wase) )
+( [Replit で実行 : BOARD](https://replit.com/@sworc/ALL-Jie-Shi-Ban-MVCJie-Shi-Ban-detabesu) )
 
 - ### 🔴 標準化前の社員マスタの修正処理
   - https://github.com/winofsql/php-mtn-v01-update-sqlite  
