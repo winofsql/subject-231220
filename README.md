@@ -10,3 +10,6 @@
     - 基本的な入力チェック
       - form から onsubmit
       - html によるチェック
+
+- ### 🔴 社員マスタの新規登録を追加
+  - https://github.com/winofsql/php-mtn-v03-update-insert-sqlite
