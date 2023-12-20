@@ -13,3 +13,7 @@
 
 - ### 🔴 社員マスタの新規登録を追加
   - https://github.com/winofsql/php-mtn-v03-update-insert-sqlite
+
+
+- ### 🔴 会話コントロールによるコントロールプロテクト
+  - https://github.com/winofsql/php-mtn-v04-communication-sqlite
