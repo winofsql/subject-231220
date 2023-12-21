@@ -27,7 +27,22 @@
 - ### 🔴 コンボボックスの実装
   - https://github.com/winofsql/php-mtn-v06-combo-box-sqlite
 
+🔴 httpd-lightbox.conf ( C:\xampp\apache\conf\extra )
+```
+<IfModule alias_module>
 
+    Alias /php-sqlite "C:\Users\lightbox\Downloads\subject\php-sqlite"
+    <Directory "C:\Users\lightbox\Downloads\subject\php-sqlite">
+        Options Indexes ExecCGI
+        AllowOverride All
+        Require all granted
+        ErrorDocument 403 /error/XAMPP_FORBIDDEN.html.var
+    </Directory>
+
+</IfModule>
+```
+
+🔴 Apache 文法エラーのチェック
 ```
 C:\xampp\apache\bin>httpd /?
 Usage: httpd [-D name] [-d directory] [-f file]
